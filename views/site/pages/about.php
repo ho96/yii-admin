@@ -1,5 +1,5 @@
 <div class="center">
-Administration created by <?= CHtml::link('http://ho96.com', 'http://ho96.com', array('target' => '_blank')) ?>. All rights reserved.<br/>
+Administration created by <?= CHtml::link('http://oligalma.com', 'http://oligalma.com', array('target' => '_blank')) ?>. All rights reserved.<br/>
 </div>
 <div class="center padding-20-0">
 	If you like this extension please donate here<br/><br/>
