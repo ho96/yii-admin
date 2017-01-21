@@ -113,7 +113,7 @@
 		<?php endif; ?>
 		<?php echo $content; ?>
 		<footer>
-			Administration developed by <?= CHtml::link('http://ho96.com', 'http://ho96.com', array('target' => '_blank'))?>
+			Administration developed by <?= CHtml::link('http://oligalma.com', 'http://oligalma.com', array('target' => '_blank'))?>
 			<br/><br/>
 			<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 			<input type="hidden" name="cmd" value="_s-xclick">
